@@ -1,0 +1,1 @@
+[30-May-2009 14:49:17] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/images/single.php on line 1

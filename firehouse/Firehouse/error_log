@@ -1,0 +1,7 @@
+[30-May-2009 14:49:08] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/index.php on line 1
+[30-May-2009 14:54:28] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/index.php on line 1
+[30-May-2009 14:54:37] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/index.php on line 1
+[30-May-2009 14:55:50] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/index.php on line 1
+[30-May-2009 14:56:00] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/index.php on line 1
+[30-May-2009 14:56:22] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/index.php on line 1
+[30-May-2009 14:58:05] PHP Fatal error:  Call to undefined function  get_header() in /home/themetes/public_html/test3/wp-content/themes/Firehouse/index.php on line 1
